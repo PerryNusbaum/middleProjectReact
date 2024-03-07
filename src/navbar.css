@@ -1,0 +1,17 @@
+.navBar{
+    /* margin-top : 5%; */
+    background-color: rgb(43, 226, 122);
+    height: 25vh;
+}
+li{
+    display:contents;
+
+}
+.form{
+    background-color: aqua;
+}
+.inputNavBar{
+    margin-top: 8vh;
+    /* margin: 25vh,25vh,25vh,25vh; */
+    margin-left: 8vh;
+}
